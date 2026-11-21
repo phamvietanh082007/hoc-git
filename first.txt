@@ -1,5 +1,1 @@
-xin chao moi nguoi
-ten toi la viet anh
- branch thu ti
-bai test dau tien
-sai phai sua
+toi la viet anh day\nsai linh tinh
