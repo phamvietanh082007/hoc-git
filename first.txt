@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 toi la viet anh day
 kho qua
+=======
+toi la viet anh day\nsai linh tinh
+>>>>>>> branch-attemp1
