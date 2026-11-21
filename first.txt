@@ -1,2 +1,5 @@
-xin chao moi nguoi\nten toi la viet anh\nchay thu ti git
-bai test dau tien\nsai thi sua
+xin chao moi nguoi
+ten toi la viet anh
+ branch thu ti
+bai test dau tien
+sai phai sua
